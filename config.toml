@@ -1,0 +1,47 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '❤️ In Pursuit of Delivering Happinnes'
+theme = "hugo-coder"
+enableEmoji = "true"
+disqusShortname = "mikhailmorozkov"
+
+[params]
+gravatar = "mmorozkov@gmail.com"
+colorScheme = "auto"
+author = "Mikhail Morozkov"
+description = "Mikhail Morozkov's engineering blog"
+keywords = "blog,engineering,management,leadership,developer,delivery,sports,gaming,life"
+jobTitle = "Delivery Manager"
+employer = "Devexperts"
+employerURL = "https://devexperts.com/"
+info = ["Engineering, Management, Sports, Gaming, Life"]
+since = 2022
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/mmorozkov"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 2
+url = "https://www.linkedin.com/in/mikhail-morozkov-abba7613/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 3
+url = "https://instagram.com/mikhail.morozkov"
+
+
+[[languages.en.menu.main]]
+name = "About Me"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
