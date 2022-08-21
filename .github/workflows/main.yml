@@ -17,7 +17,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.92.0"
+          hugo-version: "0.101.0"
           extended: true
 
       - name: Build
@@ -35,5 +35,5 @@ jobs:
           #   keep_files: true
           user_name: mmorozkov
           user_email: mmorozkov@gmail.com
-          publish_branch: master
+          publish_branch: publish
         #   cname: example.com
