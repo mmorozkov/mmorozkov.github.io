@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mmorozkov.github.io'
 languageCode = 'en-us'
-title = '❤️ In Pursuit of Delivering Happinnes'
+title = 'In Pursuit of Delivering Happiness'
 theme = "hugo-coder"
 enableEmoji = "true"
 disqusShortname = "mikhailmorozkov"
@@ -11,7 +11,7 @@ colorScheme = "auto"
 author = "Mikhail Morozkov"
 description = "Mikhail Morozkov's engineering blog"
 keywords = "blog,engineering,management,leadership,developer,delivery,sports,gaming,life"
-jobTitle = "Delivery Manager"
+jobTitle = "Head of Delivery Unit"
 employer = "Devexperts"
 employerURL = "https://devexperts.com/"
 info = ["Engineering, Management, Sports, Gaming, Life"]
