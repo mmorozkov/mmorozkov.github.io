@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'In Pursuit of Delivering Happiness'
 theme = "hugo-coder"
 enableEmoji = "true"
-disqusShortname = "mikhailmorozkov"
+disqusShortname = "mmorozkov-github-io"
 
 [params]
 gravatar = "mmorozkov@gmail.com"
